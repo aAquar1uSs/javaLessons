@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="308eb219-46b1-4e15-8e76-fcdd4bcf018a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Task1/src/main/java/com/epam/rd/java/basic/practice2/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/main/java/com/epam/rd/java/basic/practice2/ArrayImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/main/java/com/epam/rd/java/basic/practice2/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/main/java/com/epam/rd/java/basic/practice2/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/main/java/com/epam/rd/java/basic/practice2/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/main/java/com/epam/rd/java/basic/practice2/ListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/main/java/com/epam/rd/java/basic/practice2/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/main/java/com/epam/rd/java/basic/practice2/QueueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/main/java/com/epam/rd/java/basic/practice2/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/main/java/com/epam/rd/java/basic/practice2/StackImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/test/java/com/epam/rd/java/basic/practice2/ArrayImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/test/java/com/epam/rd/java/basic/practice2/ListImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/test/java/com/epam/rd/java/basic/practice2/QueueImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/test/java/com/epam/rd/java/basic/practice2/StackImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/main/java/com/epam/rd/java/basic/practice4/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/main/java/com/epam/rd/java/basic/practice4/Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/main/java/com/epam/rd/java/basic/practice4/Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/main/java/com/epam/rd/java/basic/practice4/Part3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/main/java/com/epam/rd/java/basic/practice4/Part4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/main/java/com/epam/rd/java/basic/practice4/Part5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/main/java/com/epam/rd/java/basic/practice4/Part6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/main/resources/resources_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/main/resources/resources_ru.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/test/java/com/epam/rd/java/basic/practice4/Part1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/test/java/com/epam/rd/java/basic/practice4/Part2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/test/java/com/epam/rd/java/basic/practice4/Part3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/test/java/com/epam/rd/java/basic/practice4/Part4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/test/java/com/epam/rd/java/basic/practice4/Part5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/test/java/com/epam/rd/java/basic/practice4/Part6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/main/java/com/epam/rd/java/basic/practice5/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/main/java/com/epam/rd/java/basic/practice5/Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/main/java/com/epam/rd/java/basic/practice5/Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/main/java/com/epam/rd/java/basic/practice5/Part3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/main/java/com/epam/rd/java/basic/practice5/Part4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/main/java/com/epam/rd/java/basic/practice5/Part5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/main/java/com/epam/rd/java/basic/practice5/Spam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/test/java/com/epam/rd/java/basic/practice5/Part1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/test/java/com/epam/rd/java/basic/practice5/Part2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/test/java/com/epam/rd/java/basic/practice5/Part3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/test/java/com/epam/rd/java/basic/practice5/Part4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/test/java/com/epam/rd/java/basic/practice5/Part5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/test/java/com/epam/rd/java/basic/practice5/SpamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part1/Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part1/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part1/WordContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part2/Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part3/Parking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part3/Part3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part4/Part4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part4/Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part5/Part5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part5/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part6/Part6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part6/Part61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part6/Part62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/main/java/com/epam/rd/java/basic/practice6/part6/Part63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/test/java/com/epam/rd/java/basic/practice6/part1/WordContainerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/test/java/com/epam/rd/java/basic/practice6/part2/Part2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/test/java/com/epam/rd/java/basic/practice6/part3/ParkingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/test/java/com/epam/rd/java/basic/practice6/part4/RangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/test/java/com/epam/rd/java/basic/practice6/part5/TreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/test/java/com/epam/rd/java/basic/practice6/part6/Part6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/constants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/constants/XmlElementEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/entity/AveLenFlower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/entity/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/entity/Flowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/entity/GrowingTips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/entity/Lighting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/entity/Tempreture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/entity/VisualParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/entity/Watering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/parsers/DomParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/parsers/SaxParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/parsers/StaXParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/util/CreateXML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/util/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/main/java/com/epam/rd/java/basic/practice7/util/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/test/java/com/epam/rd/java/basic/practice7/testParsers/DomParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/test/java/com/epam/rd/java/basic/practice7/testParsers/SaxParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/test/java/com/epam/rd/java/basic/practice7/testParsers/StaxParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/src/test/java/com/epam/rd/java/basic/practice7/testSorter/SorterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task7/src/main/java/com/epam/rd/java/basic/practice8/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task7/src/main/java/com/epam/rd/java/basic/practice8/db/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task7/src/main/java/com/epam/rd/java/basic/practice8/db/constants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task7/src/main/java/com/epam/rd/java/basic/practice8/db/entity/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task7/src/main/java/com/epam/rd/java/basic/practice8/db/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task7/src/test/java/com/epam/rd/java/basic/practice8/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task7/src/test/java/com/epam/rd/java/basic/practice8/Part1StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task7/src/test/java/com/epam/rd/java/basic/practice8/Part2StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task7/src/test/java/com/epam/rd/java/basic/practice8/Part3StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task7/src/test/java/com/epam/rd/java/basic/practice8/Part4StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task7/src/test/java/com/epam/rd/java/basic/practice8/Part5StudentTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xaLoNlmzvEG1ev4vmnQ78mLQl0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Task7" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Java\javaLessons\Task7" />
+      <recent name="D:\Project\Java\javaLessons\Task6" />
+      <recent name="D:\Project\Java\javaLessons\Task5" />
+      <recent name="D:\Project\Java\javaLessons\Task4" />
+      <recent name="D:\Project\Java\javaLessons\Task3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Java\javaLessons\Task2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="308eb219-46b1-4e15-8e76-fcdd4bcf018a" name="Default Changelist" comment="" />
+      <created>1630588426878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630588426878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
